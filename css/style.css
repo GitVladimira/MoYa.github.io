@@ -30,6 +30,10 @@ a{
 .header{
   background: black;
   padding: 48px 0;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
 }
 
 .logo{
@@ -58,5 +62,22 @@ a{
   height: 100vh;
   background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(24, 25, 25) 10%, rgb(33, 33, 33) 66%, rgb(20, 21, 21) 90%, rgba(0,0,0,1) 100%);
+  padding-top: 106px;
+}
+
+.inner-call-to-action{
+  max-width: 545px;
+}
+
+.call-to-action-title{
+  color: rgb(175, 175, 175);
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.29;
+
+  position: relative;
+  padding-top: 100px;
+  padding-left: 100px;
+
 }
 
