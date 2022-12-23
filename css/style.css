@@ -67,6 +67,13 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(24, 25, 25) 10%, rgb(33
 
 .inner-call-to-action{
   max-width: 545px;
+  color: rgb(179, 176, 176);
+  line-height: 1.29;
+
+
+  position: relative;
+  padding-top: 100px;
+  padding-left: 100px;
 }
 
 .call-to-action-title{
@@ -74,6 +81,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(24, 25, 25) 10%, rgb(33
   font-size: 48px;
   font-weight: bold;
   line-height: 1.29;
+
 
   position: relative;
   padding-top: 100px;
